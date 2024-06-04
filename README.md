@@ -1,5 +1,5 @@
 # conflict-resolution
 
-## text added
+## text added on Github
 
 
